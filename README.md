@@ -8,4 +8,4 @@ A python file that contains all the personal solution to the assigned exercises.
 
 #### stamps
 
-A folder that contains all the screenshots taken from the Hackerrank site containing all the submitted exercises.
+A folder that contains all the screenshots in PDF format taken from the Hackerrank site containing all the submitted exercises.
